@@ -37,7 +37,7 @@
                 Support
                 </p>
                 <p>
-                  <a href="https://twitter.com/dmodoomsirius" class="twitter-follow-button" data-align="center" data-show-count="true" data-show-screen-name="false">Follow</a> 
+                  <a href="https://twitter.com/dmodoomsirius" class="twitter-follow-button" data-align="center" data-show-count="true" data-show-screen-name="false">Follow</a> <a href="http://www.patreon.com/dmodoomsirius" data-align="center"><img src="http://www.patreon.com/images/logo_emblem.png" height="42" width="42"></img></a>
                 </p>
             </div>
         </div>        
